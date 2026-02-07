@@ -1,0 +1,4 @@
+[2026-02-07 21:09:40,100] 24 root - INFO - Entered the data ingestion method
+[2026-02-07 21:09:40,114] 29 root - INFO - Dataset read successfully
+[2026-02-07 21:09:40,117] 43 root - INFO - Raw data saved
+[2026-02-07 21:09:40,121] 65 root - INFO - Data ingestion completed successfully
