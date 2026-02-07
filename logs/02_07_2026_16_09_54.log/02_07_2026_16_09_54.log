@@ -1,0 +1,6 @@
+[2026-02-07 16:09:54,111] 74 root - INFO - Read train and test data completed
+[2026-02-07 16:09:54,111] 75 root - INFO - Obtaining preprocessing object
+[2026-02-07 16:09:54,111] 54 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2026-02-07 16:09:54,111] 55 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2026-02-07 16:09:54,114] 91 root - INFO - Applying preprocessing object on training and testing data
+[2026-02-07 16:09:54,122] 112 root - INFO - Saving preprocessing object
