@@ -1,0 +1,11 @@
+[2026-02-08 20:19:41,549] 25 root - INFO - Starting data ingestion
+[2026-02-08 20:19:41,553] 29 root - INFO - Dataset read successfully
+[2026-02-08 20:19:41,560] 64 root - INFO - Data ingestion completed successfully
+[2026-02-08 20:19:41,562] 74 root - INFO - Read train and test data completed
+[2026-02-08 20:19:41,562] 75 root - INFO - Obtaining preprocessing object
+[2026-02-08 20:19:41,562] 54 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2026-02-08 20:19:41,562] 55 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2026-02-08 20:19:41,563] 91 root - INFO - Applying preprocessing object on training and testing data
+[2026-02-08 20:19:41,569] 112 root - INFO - Saving preprocessing object
+[2026-02-08 20:19:41,571] 33 root - INFO - Splitting training and test data
+[2026-02-08 20:19:42,517] 72 root - INFO - Best model found: Linear Regression
