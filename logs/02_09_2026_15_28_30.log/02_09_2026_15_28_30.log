@@ -1,0 +1,3 @@
+[2026-02-09 15:28:30,191] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-02-09 15:28:30,198] 97 werkzeug - INFO -  * Debugger PIN: 680-293-220
+[2026-02-09 15:28:36,296] 97 werkzeug - INFO -  * Detected change in '/Users/divyanshukumar/Desktop/MLproject/application.py', reloading
